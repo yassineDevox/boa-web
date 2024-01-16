@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a web application built using React with TypeScript and Ant Design, aiming to provide a user-friendly and visually appealing interface for [briefly describe the purpose of the app].
+This project is a web application built using React with TypeScript and Ant Design, aiming to provide a user-friendly and visually appealing interface for managing User and their Orders and much more.
 
 ## Table of Contents
 
